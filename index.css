@@ -1,0 +1,84 @@
+body {
+  margin: 0;
+  
+  background-image: url(https://phonoteka.org/uploads/posts/2022-02/1643911844_26-phonoteka-org-p-stilnii-temnii-fon-26.jpg);
+}
+
+.begining img {
+  width: 82px;
+  height: 82px;
+  margin: 12px;
+  border-radius: 49px;
+}
+
+.begining {
+  display: flex;
+  font-size: 37px;
+  font-family:Arial, Helvetica, sans-serif;
+  background-image: url(https://catherineasquithgallery.com/uploads/posts/2021-02/1614342539_44-p-fon-minimalizm-svetlii-47.jpg);
+}
+
+.begining1 {
+  text-align: center;
+  font-size: 180px;
+  width: 100%;
+  height: 100%;
+  color:azure ;
+  font-family:'Courier New', Courier, monospace;
+  position: absolute;
+  background-repeat: no-repeat;
+  cursor:default;
+}
+
+.begining1 p{
+  font-size: 30px;
+}
+
+.begining2 {
+  font-size: 40px;
+  padding: 40px;
+  background-color: aliceblue;
+  color: black;
+  border-radius: 50px;
+}
+
+.begining2 img{
+  margin-top: 40px;
+  margin-left: 450px;
+  margin-bottom: 40px;
+  max-width: 512px;
+  max-height: 512px;
+  border-radius: 30px;
+  display: flex;
+}
+
+.begining2 p1{
+  font-size: 29px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+.begining2 h1{
+  margin: 30pxpx;
+}
+
+.begining2 p2{
+  font-size: 30px;
+  text-align: left;
+}
+
+.middle img{
+  max-width: 1650px;
+  margin-left: 150px;
+  margin-top: 50px;
+}
+
+.middle2 {
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.none {
+  float: right;
+  display: block;
+  visibility: hidden;
+}
